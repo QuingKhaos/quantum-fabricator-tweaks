@@ -1,3 +1,7 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2026-07-07
+  Changes:
+    - Use provided graphics by Quantum Fabricator for the quantum storage reader combinator.
+    - Move the quantum storage reader combinator to the circuit network technology, if early digitizing chest setting is enabled.
+    - Set default value for early digiziting chest setting to true.

@@ -1,12 +1,18 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "quantum-fabricator-tweaks",
+  "title": "Quantum Fabricator Tweaks",
+  "description": "Opinionated tweaks to Quantum Fabricator.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.77",
+
+    "cf-lib >= 1.6.0",
+    "khaoslib >= 1.3.0",
+
+    "quantum-fabricator >= 2.12.2",
+    "? SchallCircuitGroup >= 2.0.1"
   ]
 }
